@@ -3,8 +3,8 @@
 
 <h2>Java Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Parts Store using Spring Framework and Angular front end</b>
+  - [Tom's Gun Shop](https://github.com/tlkroll/TomsGunShop.git)
 
 <h2>C++ Projects:</h2>
 
