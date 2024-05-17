@@ -3,7 +3,7 @@
 
 <h2>Java Projects:</h2>
 
-- <b>Store inventory using Spring Framework and Angular front end</b>
+- <b>Store inventory using Spring Framework</b>
   - [Store Inventory](https://github.com/tlkroll/StoreInventory.git)
 
 <h2>C++ Projects:</h2>
