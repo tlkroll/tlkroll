@@ -22,7 +22,7 @@
 <h2>Python Projects:</h2>
 
 - <b>Package delivery routing and tracking application</b>
-  - [WGUPS](https://github.com/tlkroll/WGUPS.git)
+  - [Delivery Service](https://github.com/tlkroll/WGUPS.git)
 
 <h2>Connect with me:</h2>
 
