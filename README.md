@@ -1,5 +1,5 @@
 <h1>Hi, I'm Tom!</h1>
-<h2>These are some of the projects I have worked on while attending WGU</h2>
+<h2>These are some of the projects I have worked on in school</h2>
 
 <h2>Java Projects:</h2>
 
