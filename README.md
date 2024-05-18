@@ -3,6 +3,9 @@
 
 <h2>Java Projects:</h2>
 
+- <b>Travel agency website using Spring Framework and MySQL database</b>
+  - [Travel Agency](https://github.com/tlkroll/TravelAgency.git)
+
 - <b>Store inventory using Spring Framework</b>
   - [Store Inventory](https://github.com/tlkroll/StoreInventory.git)
 
