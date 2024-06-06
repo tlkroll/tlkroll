@@ -3,6 +3,9 @@
 
 <h2>Java Projects:</h2>
 
+- <b>Multithreaded hotel reservation application using Spring Framework and MySQL database packaged with Docker</b>
+  - [Hotel Reservation](https://github.com/tlkroll/HotelReservation.git)
+
 - <b>Travel agency application using Spring Framework and MySQL database</b>
   - [Travel Agency](https://github.com/tlkroll/TravelAgency.git)
 
