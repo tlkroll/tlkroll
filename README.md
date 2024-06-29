@@ -1,5 +1,13 @@
-<h1>Hi, I'm Tom!</h1>
-<h2>These are some of the projects I have worked on while studying Computer Science</h2>
+<h1>Hi, I'm Tom.</h1>
+<h2>These are some of the projects I have worked on while studying Computer Science at WGU</h2>
+
+<h2>Python Projects:</h2>
+
+- <b>World of Warcraft arena match winner prediction application</b>
+  - [WoW-Stats](https://github.com/tlkroll/WoW-Stats.git)
+    
+- <b>Package delivery routing and tracking application</b>
+  - [Delivery Service](https://github.com/tlkroll/WGUPS.git)
 
 <h2>Java Projects:</h2>
 
@@ -19,13 +27,6 @@
   
 - <b>Roster for storing student information</b>
   - [Student Roster](https://github.com/tlkroll/StudentRoster.git)
- 
-
-
-<h2>Python Projects:</h2>
-
-- <b>Package delivery routing and tracking application</b>
-  - [Delivery Service](https://github.com/tlkroll/WGUPS.git)
 
 <h2>Connect with me:</h2>
 
