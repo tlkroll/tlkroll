@@ -1,5 +1,5 @@
 <h1>Hi, I'm Tom.</h1>
-<h2>These are some of the projects I have worked on while studying Computer Science at WGU</h2>
+<h2>These are some of the projects I have worked on while studying Computer Science at Western Governors University.</h2>
 
 <h2>Python Projects:</h2>
 
