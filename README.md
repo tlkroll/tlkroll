@@ -1,5 +1,11 @@
-<h1>Hi, I'm Tom.</h1>
-<h2>These are some of the projects I have worked on while studying Computer Science at Western Governors University.</h2>
+<h2>Hi, I'm Tom. I am a recent computer science graduate with a passion for cybersecurity.</h2><br>
+<br>
+<h2>Here is my first cybersecurity write-up for a picoCTF challenge:</h2>
+
+- <b>Format String Vulnerability Exploitation</b>
+  - [format string 2](https://github.com/tlkroll/format-string-exploitation/blob/main/README.md)
+<br><br>
+<h2>These are some of the projects I worked on while studying for my computer science degree:</h2>
 
 <h2>Python Projects:</h2>
 
