@@ -1,9 +1,10 @@
 <h2>Hi, I'm Tom. I am a recent computer science graduate with a passion for cybersecurity.</h2>
 While studying for my earlier Information Technology degree, the most fun I had in school was completing security labs involving password cracking, MITM, SQL injection, etc. After completing that degree, I studied computer science because I wanted to understand computing at its most basic levels before returning to security. Now that I am finished with my computer science degree, I look forward to studying for a master's in cybersecurity at Georgia Tech starting in January of 2025. I am eager to learn more about low level security topics such as binary exploitation, malware analysis, and reverse engineering and cannot wait to get started working in the field!
 <br>
-<h2>Here is my first cybersecurity write-up for a picoCTF challenge:</h2>
+<h2>Here is my first cybersecurity write-up for a CTF:</h2>
 
 - <b>Format String Vulnerability Exploitation</b>
+
   - [format string 2](https://github.com/tlkroll/format-string-exploitation/blob/main/README.md)
 <br><br>
 <h2>These are some of the projects I worked on while studying for my computer science degree:</h2>
@@ -39,7 +40,7 @@ While studying for my earlier Information Technology degree, the most fun I had 
 
 [<img align="left" alt="ThomasKroll | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/thomas-kroll-0046b711a
+[linkedin]: https://www.linkedin.com/in/tlkroll
 
 <!--
 
