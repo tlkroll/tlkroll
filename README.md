@@ -1,7 +1,7 @@
 <h2>Hi, I'm Tom. I am a recent computer science graduate with a passion for cybersecurity.</h2>
 While studying for my earlier Information Technology degree, the most fun I had in school was completing security labs involving password cracking, MITM, SQL injection, etc. After completing that degree, I studied computer science because I wanted to understand computing at its most basic levels before returning to security. Now that I am finished with my computer science degree, I look forward to studying for a master's in cybersecurity at Georgia Tech starting in January of 2025. I am eager to learn more about low level security topics such as binary exploitation, malware analysis, and reverse engineering and cannot wait to get started working in the field!
 <br>
-<h2>Here are some write-ups for different CTF challenges:</h2>
+<h2>CTF write-ups:</h2>
 
 - <b>Format String Vulnerability Exploitation</b>
 
@@ -10,7 +10,7 @@ While studying for my earlier Information Technology degree, the most fun I had 
 - <b>Overwriting Global Offset Table entries</b>
   - [format string 3](https://github.com/tlkroll/got-overwrite/blob/main/README.md)
 <br><br>
-<h2>These are some of the projects I worked on while studying for my computer science degree:</h2>
+<h2>These are some of the projects I worked on while studying computer science:</h2>
 
 <h3>Python Projects:</h3>
 
